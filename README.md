@@ -39,7 +39,7 @@ ___
 ____
 |||
 | :------ | :-------- |
-| Solution URL: | |
+| Solution URL: | https://www.frontendmentor.io/solutions/snap-remote-website-_2F6Uu0JY7 |
 | Live Site URL: | https://giddero.github.io/Snap-remote-Website/ |
 ||| 
 
