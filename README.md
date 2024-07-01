@@ -27,7 +27,7 @@ ___
 ### PageSpeed Insights Score
 #### Desktop :computer:
 ![Desktop preview](./images/Desktop%20preview.png)
-![Desktop Page Data](./images/Desktop%20Page%20data.jpg)
+![Desktop Page Data](./images/Desktop%20Page%20Data.jpg)
 
 #### Mobile :iphone:
 ![Mobile preview](./images/Mobile%20Preview.png)
@@ -73,4 +73,5 @@ ____
 ![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fgiddero_xoxo)&nbsp;&nbsp;
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmoses-gideon%2F)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FGiDDeRo)&nbsp;&nbsp;
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-white?style=for-the-badge&logo=Frontend%20Mentor&logoColor=blue&link=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2FGiDDeRo)&nbsp;
+![Frontend Mentor]([https://img.shields.io/badge/Frontend%20Mentor-white?style=for-the-badge&logo=Frontend%20Mentor&logoColor=blue&link=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2FGiDDeRo](https://img.shields.io/badge/FRONTEND%20MENTOR%20-%20white?style=for-the-badge&logo=frontend%20mentor&logoColor=blue&labelColor=white&color=white&link=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2FGiDDeRo
+))&nbsp;
