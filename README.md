@@ -27,11 +27,13 @@ ___
 ### PageSpeed Insights Score
 #### Desktop :computer:
 ![Desktop preview](./images/Desktop%20preview.png)
-![Desktop Page Data](./images/Desktop%20Page%20Data.jpg)
+
+![Desktop Page Data](./images/Desktop%20Page%20data.jpg)
 
 #### Mobile :iphone:
 ![Mobile preview](./images/Mobile%20Preview.png)
-![Mobile Page Data](./images/Mobile%20Page%20data.jpg)
+
+![Mobile Page Data](./images/Mobile%20Page%20Data.jpg)
 
 ### Links
 ____
